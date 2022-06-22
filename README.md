@@ -15,7 +15,7 @@
 
 **buildpack.yml**
 
-主要用来配置nginx的允许版本
+主要用来配置nginx的使用版本
 
 **nginx.conf**
 
@@ -44,8 +44,8 @@ cf push
 
 ### 参考
 
-[cloud_foundry_nginx_buildpacks](https://docs.cloudfoundry.org/buildpacks/nginx/index.html)
-[nginx](https://nginx.org/en/)
+* [cloud_foundry_nginx_buildpacks](https://docs.cloudfoundry.org/buildpacks/nginx/index.html)
+* [nginx](https://nginx.org/en/)
 
 
 
