@@ -1,0 +1,8 @@
+applications:
+- name: nginx-demo
+  memory: 100M
+  disk_quota: 100M
+  buildpacks: 
+    - nginx_buildpack
+  routes: 
+    - route: nginx-demo.cfapps.us10.hana.ondemand.com
