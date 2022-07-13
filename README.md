@@ -45,6 +45,7 @@ cf push
 ### 参考
 
 * [cloud_foundry_nginx_buildpacks](https://docs.cloudfoundry.org/buildpacks/nginx/index.html)
+* [nginx-buildpack_mainline](https://github.com/cloudfoundry/nginx-buildpack/tree/master/fixtures/mainline)
 * [nginx](https://nginx.org/en/)
 
 
